@@ -1,0 +1,27 @@
+.corleone{
+    background-color: rgb(233, 70, 11) !important;
+    background: rgb(233, 70, 11) !important;
+}
+
+.blanc{
+    transition: .5s;
+    color : white !important;
+}
+.blanc:hover{
+    background-color: rgb(175, 47, 1) !important;
+    background: rgb(175, 47, 1) !important;
+}
+.photos{
+    display : flex;
+    justify-content:center;
+    
+}
+.zbi{
+    display: flex;
+    justify-content: center;
+    margin : 20px 0px !important;
+}
+.zbi img{
+    border-radius: 5px;
+    height: 100%;
+}
